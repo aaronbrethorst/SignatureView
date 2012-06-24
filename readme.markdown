@@ -1,5 +1,3 @@
-[Check out the sample project branch for a usage example.](/tree/SampleProject)
-
 One example of how to implement the SignatureViewController and its signature view in your own viewControllers:
 
     //
